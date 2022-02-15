@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@syncfusion/ej2-base": "^19.4.48",
+    "@syncfusion/ej2-data": "^19.4.50",
+    "@syncfusion/ej2-react-grids": "^19.4.51",
+    "@syncfusion/ej2-react-querybuilder": "^19.4.50",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
